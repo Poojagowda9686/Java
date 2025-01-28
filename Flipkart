@@ -1,0 +1,109 @@
+Hello Flipkart
+
+
+
+
+Hello Tumkur
+Devops
+
+India
+
+
+Indai
+India
+
+
+
+
+Hello 
+d --> change directory
+pwd --> present working dir
+ls --> list the file/folders
+ls -l --> long list(detals)
+cat --> display the content of file
+vi --> to open vi editor
+touch --> create the file
+mkdir --> create the director
+wq --> write & quit from vi editor
+clear --> clear screen
+cd .. --> go one step back
+rmdir --> remove directory
+rm --> remove file
+mv --> cut paste or to rename
+
+-----------------------------------
+
+head <filename>
+tail <filename>
+grep -i <pattern> <filename>
+sed -i s/pattern1/pattern2/g <filename>
+whoami --> to see the user
+ps --> process which are running
+du --> disk usage of directories
+df --> how much disk is free
+find --> find the file directory
+echo --> print the message
+cut --> printing columns
+awk --> printing columns(it considers multiple delimeter as one)
+| --> pipe symbol for using multiple commands at a time
+d --> change directory
+pwd --> present working dir
+ls --> list the file/folders
+ls -l --> long list(detals)
+cat --> display the content of file
+vi --> to open vi editor
+touch --> create the file
+mkdir --> create the director
+wq --> write & quit from vi editor
+clear --> clear screen
+cd .. --> go one step back
+rmdir --> remove directory
+rm --> remove file
+mv --> cut paste or to rename
+
+-----------------------------------
+
+head <filename>
+tail <filename>
+grep -i <pattern> <filename>
+sed -i s/pattern1/pattern2/g <filename>
+whoami --> to see the user
+ps --> process which are running
+du --> disk usage of directories
+df --> how much disk is free
+find --> find the file directory
+echo --> print the message
+cut --> printing columns
+awk --> printing columns(it considers multiple delimeter as one)
+| --> pipe symbol for using multiple commands at a time
+d --> change directory
+pwd --> present working dir
+ls --> list the file/folders
+ls -l --> long list(detals)
+cat --> display the content of file
+vi --> to open vi editor
+touch --> create the file
+mkdir --> create the director
+wq --> write & quit from vi editor
+clear --> clear screen
+cd .. --> go one step back
+rmdir --> remove directory
+rm --> remove file
+mv --> cut paste or to rename
+
+-----------------------------------
+
+head <filename>
+tail <filename>
+grep -i <pattern> <filename>
+sed -i s/pattern1/pattern2/g <filename>
+whoami --> to see the user
+ps --> process which are running
+du --> disk usage of directories
+df --> how much disk is free
+find --> find the file directory
+echo --> print the message
+cut --> printing columns
+awk --> printing columns(it considers multiple delimeter as one)
+| --> pipe symbol for using multiple commands at a time
+
